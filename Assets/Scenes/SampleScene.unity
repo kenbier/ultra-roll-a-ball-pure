@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1526980366}
-  m_IndirectSpecularColor: {r: 0.24419363, g: 0.3061108, b: 0.38669816, a: 1}
+  m_IndirectSpecularColor: {r: 0.24419379, g: 0.306111, b: 0.3866984, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -309,7 +309,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1081914228}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -6.48, y: -2.71, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -382,6 +382,7 @@ GameObject:
   - component: {fileID: 1278808707}
   - component: {fileID: 1278808706}
   - component: {fileID: 1278808705}
+  - component: {fileID: 1278808709}
   m_Layer: 0
   m_Name: Bumper 2
   m_TagString: Untagged
@@ -451,11 +452,23 @@ Transform:
   m_GameObject: {fileID: 1278808704}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -81, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1.314, z: 164}
+  m_LocalScale: {x: 1, y: 13, z: 164}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1278808709
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1278808704}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.99999994, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1436699744
 GameObject:
   m_ObjectHideFlags: 0
@@ -619,6 +632,7 @@ GameObject:
   - component: {fileID: 1549151452}
   - component: {fileID: 1549151451}
   - component: {fileID: 1549151450}
+  - component: {fileID: 1549151454}
   m_Layer: 0
   m_Name: Bumper 3
   m_TagString: Untagged
@@ -688,11 +702,23 @@ Transform:
   m_GameObject: {fileID: 1549151449}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 81}
-  m_LocalScale: {x: 1, y: 1.314, z: 164}
+  m_LocalScale: {x: 1, y: 13, z: 164}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!65 &1549151454
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1549151449}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1601531290
 GameObject:
   m_ObjectHideFlags: 0
@@ -754,7 +780,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1601531290}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: a516f614f4bf34f48a8428731f8d1e27, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -802,7 +828,7 @@ Rigidbody:
   serializedVersion: 2
   m_Mass: 3.14
   m_Drag: 0
-  m_AngularDrag: 0.5
+  m_AngularDrag: 0
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -819,6 +845,7 @@ GameObject:
   - component: {fileID: 1665627063}
   - component: {fileID: 1665627062}
   - component: {fileID: 1665627061}
+  - component: {fileID: 1665627065}
   m_Layer: 0
   m_Name: Bumper 4
   m_TagString: Untagged
@@ -888,11 +915,23 @@ Transform:
   m_GameObject: {fileID: 1665627060}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: -81}
-  m_LocalScale: {x: 1, y: 1.314, z: 164}
+  m_LocalScale: {x: 1, y: 13, z: 164}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!65 &1665627065
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1665627060}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1973922578
 GameObject:
   m_ObjectHideFlags: 0
@@ -904,6 +943,7 @@ GameObject:
   - component: {fileID: 1973922581}
   - component: {fileID: 1973922580}
   - component: {fileID: 1973922579}
+  - component: {fileID: 1973922583}
   m_Layer: 0
   m_Name: Bumper 1
   m_TagString: Untagged
@@ -973,8 +1013,20 @@ Transform:
   m_GameObject: {fileID: 1973922578}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 81, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1.314, z: 164}
+  m_LocalScale: {x: 1, y: 13, z: 164}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1973922583
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1973922578}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.99999994, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}

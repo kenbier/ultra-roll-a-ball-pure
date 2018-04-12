@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4faa221e-1bc8-4be2-b277-b6ee32d87e86" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ultra-roll-a-ball-pure/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ultra-roll-a-ball-pure/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ultra-roll-a-ball-pure/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ultra-roll-a-ball-pure/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ultra-roll-a-ball-pure/riderModule.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementWaveTypeComponent.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementWaveTypeComponent.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene_Profiles.meta" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SpawnSystem.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/SpawnSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="37" />
+              <folding>
+                <marker date="1523529591131" expanded="true" signature="6:245" ph="..." />
+                <marker date="1523529591131" expanded="true" signature="274:2287" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="321:2282" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="339:481" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="589:2279" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="613:2249" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="830:2243" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="1266:1451" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="1494:2237" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="1544:2066" ph="{...}" />
+                <marker date="1523529591131" expanded="true" signature="2077:2230" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeshInstanceRendererComponent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Packages/com.unity.entities/Unity.Rendering.Hybrid/MeshInstanceRendererComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <marker date="1523451289703" expanded="false" signature="6:83" ph="..." />
+                <marker date="1523451289703" expanded="true" signature="110:676" ph="{...}" />
+                <marker date="1523451289703" expanded="true" signature="117:300" ph="/// Render Mesh with Material (must be instanced material) by object to world matrix. ... " />
+                <marker date="1523451289703" expanded="true" signature="378:574" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobMovementSystem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/JobMovementSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding>
+                <marker date="1523527725899" expanded="true" signature="6:206" ph="..." />
+                <marker date="1523527725899" expanded="true" signature="235:1313" ph="{...}" />
+                <marker date="1523527725899" expanded="true" signature="291:1311" ph="{...}" />
+                <marker date="1523527725899" expanded="true" signature="418:1100" ph="{...}" />
+                <marker date="1523527725899" expanded="true" signature="570:1096" ph="{...}" />
+                <marker date="1523527725899" expanded="true" signature="602:1091" ph="{...}" />
+                <marker date="1523527725899" expanded="true" signature="1162:1307" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixedCopyTransformSystem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/FixedCopyTransformSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1522078018000" expanded="true" signature="6:112" ph="..." />
+                <marker date="1522078018000" expanded="true" signature="141:1778" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="145:250" ph="/* the Unity version &quot;CopyTransformToGameObjectSystem&quot; would throw an error ... */" />
+                <marker date="1522078018000" expanded="true" signature="392:1776" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="612:1119" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="876:1115" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="950:1013" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="1047:1110" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="1212:1343" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="1405:1773" ph="{...}" />
+                <marker date="1522078018000" expanded="true" signature="1577:1674" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassicMovementSystem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/ClassicMovementSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1522084623000" expanded="true" signature="6:157" ph="..." />
+                <marker date="1522084623000" expanded="true" signature="186:833" ph="{...}" />
+                <marker date="1522084623000" expanded="true" signature="243:830" ph="{...}" />
+                <marker date="1522084623000" expanded="true" signature="261:407" ph="{...}" />
+                <marker date="1522084623000" expanded="true" signature="485:827" ph="{...}" />
+                <marker date="1522084623000" expanded="true" signature="578:823" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpawnSettings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/SpawnSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <marker date="1523526618315" expanded="true" signature="6:54" ph="..." />
+                <marker date="1523526618315" expanded="true" signature="83:254" ph="{...}" />
+                <marker date="1523526618315" expanded="true" signature="129:252" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonoMovementSpeed.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/MonoMovementSpeed.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1522078017000" expanded="true" signature="6:54" ph="..." />
+                <marker date="1522078017000" expanded="true" signature="83:172" ph="{...}" />
+                <marker date="1522078017000" expanded="true" signature="133:170" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICDMovementSpeedComponent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementSpeedComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <marker date="1522078016000" expanded="true" signature="6:54" ph="..." />
+                <marker date="1522078016000" expanded="true" signature="83:271" ph="{...}" />
+                <marker date="1522078016000" expanded="true" signature="153:181" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICDMovementWaveTypeComponent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementWaveTypeComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <marker date="1523527252619" expanded="true" signature="6:35" ph="..." />
+                <marker date="1523527252619" expanded="true" signature="64:283" ph="{...}" />
+                <marker date="1523527252619" expanded="true" signature="143:184" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixedCopyTransformComponent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/FixedCopyTransformComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1522078017000" expanded="true" signature="6:54" ph="..." />
+                <marker date="1522078017000" expanded="true" signature="83:310" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Job</find>
+      <find>JobMovement</find>
+      <find>SineMovement</find>
+      <find>count</find>
+      <find>UseECSEntity</find>
+      <find>ICDMovementSpeed</find>
+      <find>MovementJob</find>
+      <find>JobMovementSystem</find>
+      <find>MeshInstanceRendererComponent</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/FixedCopyTransformSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/SpawnSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollectibleSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/ClassicMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/JobMovementSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementSpeedComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/FixedCopyTransformComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/MonoMovementSpeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/SpawnSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/com.unity.entities/Unity.Entities/ComponentJobManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/com.unity.entities/Unity.Rendering.Hybrid/MeshInstanceRendererComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ECS/RotatorSpeedComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/com.unity.entities/Unity.Entities/SortingUtilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ECS/SpawnCollectiblesComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementWaveTypeComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ECS/RotatorSpeedSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ECS/SpawnCollectiblesSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PostProcessing/Runtime/Models/GrainModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/SpawnSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementSpeedComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementWaveTypeComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/JobMovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/SpawnSystem.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimpleExample" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimpleExample" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimpleExample" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Components" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ultra-roll-a-ball-pure (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SimpleExample" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ECS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Systems" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4faa221e-1bc8-4be2-b277-b6ee32d87e86" name="Default" comment="" />
+      <created>1523453925996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523453925996</updated>
+      <workItem from="1523453927581" duration="6048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6048000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ECS/SpawnCollectiblesSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523451289466" expanded="false" signature="51:264" ph="..." />
+            <marker date="1523451289466" expanded="true" signature="59:156" ph="/* using System.Collections; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ECS/SpawnCollectiblesComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523451289465" expanded="false" signature="51:264" ph="..." />
+            <marker date="1523451289465" expanded="true" signature="59:156" ph="/* using System.Collections; ... */" />
+            <marker date="1523451289465" expanded="true" signature="335:390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ECS/RotatorSpeedComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523451289464" expanded="false" signature="51:233" ph="..." />
+            <marker date="1523451289464" expanded="true" signature="313:338" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ECS/RotatorSpeedSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <marker date="1523451289465" expanded="false" signature="51:258" ph="..." />
+            <marker date="1523451289465" expanded="true" signature="260:363" ph="/* Definition and execution of acutal job: ties components together. ... */" />
+            <marker date="1523451289465" expanded="true" signature="416:915" ph="{...}" />
+            <marker date="1523451289465" expanded="true" signature="516:730" ph="{...}" />
+            <marker date="1523451289465" expanded="true" signature="611:727" ph="{...}" />
+            <marker date="1523451289465" expanded="true" signature="794:912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="72" lean-forward="false" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+          <folding>
+            <marker date="1523524092667" expanded="true" signature="6:44" ph="..." />
+            <marker date="1523524092667" expanded="true" signature="92:755" ph="{...}" />
+            <marker date="1523524092667" expanded="true" signature="169:228" ph="{...}" />
+            <marker date="1523524092667" expanded="true" signature="252:753" ph="{...}" />
+            <marker date="1523524092667" expanded="true" signature="517:747" ph="/* IDEA 1: make it a rule that player contact gives you a certain amount of points. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CollectibleSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <marker date="1523451289647" expanded="true" signature="6:103" ph="..." />
+            <marker date="1523451289647" expanded="true" signature="153:1246" ph="{...}" />
+            <marker date="1523451289647" expanded="true" signature="204:1244" ph="{...}" />
+            <marker date="1523451289647" expanded="true" signature="472:1187" ph="{...}" />
+            <marker date="1523451289647" expanded="true" signature="685:1183" ph="{...}" />
+            <marker date="1523451289647" expanded="true" signature="909:1155" ph="/* Hack: add this boy here to make any ECS transform visible (the prefab is read-only). ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollowPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1523451289647" expanded="true" signature="6:78" ph="..." />
+            <marker date="1523451289647" expanded="true" signature="128:600" ph="{...}" />
+            <marker date="1523451289647" expanded="true" signature="251:395" ph="{...}" />
+            <marker date="1523451289647" expanded="true" signature="414:598" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/FixedCopyTransformComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522078017000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1522078017000" expanded="true" signature="83:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/MonoMovementSpeed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522078017000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1522078017000" expanded="true" signature="83:172" ph="{...}" />
+            <marker date="1522078017000" expanded="true" signature="133:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementSpeedComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1522078016000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1522078016000" expanded="true" signature="83:271" ph="{...}" />
+            <marker date="1522078016000" expanded="true" signature="153:181" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/ClassicMovementSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522084623000" expanded="true" signature="6:157" ph="..." />
+            <marker date="1522084623000" expanded="true" signature="186:833" ph="{...}" />
+            <marker date="1522084623000" expanded="true" signature="243:830" ph="{...}" />
+            <marker date="1522084623000" expanded="true" signature="261:407" ph="{...}" />
+            <marker date="1522084623000" expanded="true" signature="485:827" ph="{...}" />
+            <marker date="1522084623000" expanded="true" signature="578:823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/FixedCopyTransformSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522078018000" expanded="true" signature="6:112" ph="..." />
+            <marker date="1522078018000" expanded="true" signature="141:1778" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="145:250" ph="/* the Unity version &quot;CopyTransformToGameObjectSystem&quot; would throw an error ... */" />
+            <marker date="1522078018000" expanded="true" signature="392:1776" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="612:1119" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="876:1115" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="950:1013" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="1047:1110" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="1212:1343" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="1405:1773" ph="{...}" />
+            <marker date="1522078018000" expanded="true" signature="1577:1674" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/ICDMovementWaveTypeComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <marker date="1523527252619" expanded="true" signature="6:35" ph="..." />
+            <marker date="1523527252619" expanded="true" signature="64:283" ph="{...}" />
+            <marker date="1523527252619" expanded="true" signature="143:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Components/SpawnSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <marker date="1523526618315" expanded="true" signature="6:54" ph="..." />
+            <marker date="1523526618315" expanded="true" signature="83:254" ph="{...}" />
+            <marker date="1523526618315" expanded="true" signature="129:252" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Packages/com.unity.entities/Unity.Rendering.Hybrid/MeshInstanceRendererComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <marker date="1523451289703" expanded="false" signature="6:83" ph="..." />
+            <marker date="1523451289703" expanded="true" signature="110:676" ph="{...}" />
+            <marker date="1523451289703" expanded="true" signature="117:300" ph="/// Render Mesh with Material (must be instanced material) by object to world matrix. ... " />
+            <marker date="1523451289703" expanded="true" signature="378:574" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/JobMovementSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <marker date="1523527725899" expanded="true" signature="6:206" ph="..." />
+            <marker date="1523527725899" expanded="true" signature="235:1313" ph="{...}" />
+            <marker date="1523527725899" expanded="true" signature="291:1311" ph="{...}" />
+            <marker date="1523527725899" expanded="true" signature="418:1100" ph="{...}" />
+            <marker date="1523527725899" expanded="true" signature="570:1096" ph="{...}" />
+            <marker date="1523527725899" expanded="true" signature="602:1091" ph="{...}" />
+            <marker date="1523527725899" expanded="true" signature="1162:1307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleExample/ECS/Systems/SpawnSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <marker date="1523529591131" expanded="true" signature="6:245" ph="..." />
+            <marker date="1523529591131" expanded="true" signature="274:2287" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="321:2282" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="339:481" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="589:2279" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="613:2249" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="830:2243" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="1266:1451" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="1494:2237" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="1544:2066" ph="{...}" />
+            <marker date="1523529591131" expanded="true" signature="2077:2230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
