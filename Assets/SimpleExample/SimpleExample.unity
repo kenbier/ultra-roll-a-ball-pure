@@ -141,9 +141,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bfbb3aac2674f54c8ba51973a393614, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Prefab: {fileID: 1707556847943632, guid: 4acfb5353e2ec18419d5c2fc56207ca7, type: 2}
+  Prefab: {fileID: 1661729048236950, guid: f57ba57f180df9b4297c01ff29f516af, type: 2}
   Count: 1000
-  UseECSEntity: 0
+  UseECSEntity: 1
   WaveType: 1
 --- !u!4 &94010342
 Transform:
